@@ -1,0 +1,40 @@
+What are the two distinct pairs of sex chromosomes?*XY, ZW.
+Fill in the blanks. Areas of ___________ will be inherited as a unit, while recombination will break up areas of ___________ to be inherited indepedently.*Low recombination, High recombination.
+What region of the genome can be used to track maternal lineages (XY species)?*mtDNA.
+What region of the genome can be used to track paternal lineages (XY species)?*Y chromosome.
+True or False, most genetic differences are between geographic populations.*False. The vast majority of genetic differences are within geographic populations.
+Why do we claim that it is infeasible to directly test inbreeding depression and fitness in elephants?*Elephants have a long gestation period (22 months) and lifespan (62 years).
+Should we observe lower Y chromosome differentiation between populations and higher mtDNA differentiation between populations, is this patrilocality or matrilocality?*Matrilocality.
+Define Coevolution.*Reciprocal evolutionary responses in a pair of species, caused by selection imposed by each other.
+True or False. Physical and cultural barriers affect different parts of the genome identically.*False. Different effects presume influence on different components of our genomes.
+Define Sexual Coevolution.*Reciprocal evolutionary responses in the two sexes, caused by selection imposed by each other.
+Define Human Agriculture Coevolution.*Reciprocal evolutionary responses in humans and their agricultural species, caused by selection imposed by each other.
+With respect to evolution by natural selection, what produces selection and what provides the material that is transmitted?*Ecology, Genetics.
+If substitutions cause a trait, what might we predict about other populations? What if natural selection does?*If substitutions cause a trait, we might expect the same substitutions to occur in other populations exhibiting the trait; with natural selection, we might expect similar populations to exhibit phenotypes of the trait and there should be genetic evidence of past selection of this trait.
+The Persistence of which enzyme in Nothern European and African cultures is an example of human agriculture coevolution?*Lactase.
+What is convergent evolution?*Independent evolution of the same trait in different groups.
+When observing genetic code, if all mutations are neutral, then what would we expect?*Similar properties of both replacement and synonymous mutations.
+When observing genetic code, if all mutations are deleterious, then what would we expect?*Lower population frequencies for replacement mutations.
+When observing genetic code, if all mutations are beneficial, then what would we expect?*More replacement mutations than synonymous.
+Define 'Genetic Hitchhiking'.*Process where beneficial mutations drag along with them nearby mutations after they fix.
+What do cultural practices lead to with respect to selection?*Selection on both humans and their agricultural partners.
+True or False. Cultural practices leave an imprint on the genome of humans or their agricultural partners.*False. It leaves an imprint on both.
+Fill in the blanks. If we were to compare genetic diversity in the ancestors of crops with the genetic diversity in the crop themselves, what would we see? _____ diversity in the anestor, _____ diversity in the crop derivative.*High, Low.
+Why do we claim that severe bottlenecking occurs during the domestication of crops?*There is a severe bottleneck because only a small subset of individuals are cultivated.
+What are some traits that humans favour through the artificial selection of crops?*Germination timing, seed size, and nutrition.
+How can we measure genetic variation?*Average frequency of heterozygous individuals per gene locus (H), Proportion of gene loci that are polymorphic (P), and average number of nucleotide differences per site, for any randomly sampled pair of nucleotides (Pi).
+Define the effective population size (Ne).*The total number of adults that breed in a population.
+What are some of the reasons why N does not equal Ne (Total census size vs effective size)?*Variation in the number of progeny among individuals, unequal sex ratio, overlapping generations, and fluctuations in population size.
+With respect to domestication, what are the differences in the impact of bottle-neck versus artificial selection?*With bottle-neck, the entire genome is affected, whereas artificial selection entails specific loci being affected.
+What is the downside to clonal propagation?*There is no mixing of genetic variation (natural selection and artificial selection and thus impotent).
+What happens genetically to declining populations?*Genetic drift is enhanced and Inbreeding becomes more common.
+Explain the principle of Extinction Vortex.*Roughly speaking, the Extinction Vortex demonstrates that small populations are met with several troubles which further reduce their population size. 
+Does the Florida Scrub-Jay move once it is considered a member of Ne?*They do not.
+Is the Flrodia Scrub-Jay an example of Matrilocality or Patrilocality?*Patrilocality.
+Delineate the effects of increased inbreeding.*Heterozygosity reduced, Inbreeding depression from exposure of rare recessive alleles, Loss of heterozygote advantage for fitness. 
+What are the effects of inbreeding during times of low N and Ne?*Further reduction of both N and Ne.
+What can we claim about Identity by Descent within resident-resident pairs and those involving immigrant Florida Scrub-Jays?*Identity by Descent is higher in resident-resident pairs than their counterpart, which we attribute to immigrant birds being homozygous on different streches of the genome.
+Define Identity by descent.*Identical stretch of DNA inherited from a common (recent) ancestor.
+Fill in the blanks. As immigration _________, Identity by descent _________.*Declines, Increases.
+True or False. Genetic rescue is not consistently a viable long-term solution.*True. Though it succeeds at being a viable temporary solution that may propel the population size. It buys us time.
+To reinstate a declining population, is it sufficient to increase N and Ne?*While this is a part of the solution, eliminating any factors that caused endangerment is also crucial.

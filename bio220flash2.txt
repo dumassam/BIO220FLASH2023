@@ -1,0 +1,33 @@
+Define Recruitment and Stock.*Recruitment is new additions to the population, whereas stock is the current population.
+What are N, r, and K with respect to the logistic model.?*Abundance, intrinsic rate of growth, carrying capacity.
+What is the inflection point of the Logistic Model? What does this suggest about harvesting strategies?*The inflection point is K/2. This suggests that we harvest populations from K to K/2, as the maximum growth rate occurs here. 
+Define the Maximum Economic Yield.*Where the Benefit minus Cost is maximized.
+Defined the Maximum Sustained Yield.*Point of maximum population growth.
+As seen with fishing, what is the relationship between K/2 and fishing effort?*As K/2 increases, Fishing effort decreases and vice-versa.
+What are the three options that we explored for sustainable harvesting?*Fixed quota (MSY), Fixed effort, and Fixed escapement.
+Although the K/2 strategy is theoretically the best method, what might occur in reality hinders its strength?*Populations fluctuate and thus in bad years, our K/2 harvesting entails N < K/2.
+Define the Fixed Escape Strategy.*Allow for a certain percentage of the population to migrate before the harvesting season.
+What are two frequent qualia that determine how harvesting occurs?*Size thresholds, Trophy ornaments.
+How do we measure the intensity of Truncation selection?* The difference in the mean of the population after selection compared to the mean before selection (s = z* - z).
+A major ice storm leads to mortality in grindylows. Before the ice storm, the mean body size was 8g. After the ice storm, the mean body size was 10g.
+What is the selection differential? What direction of body size evolution we would predict?*s = 2. We predict increased size to evolve.
+How does trophy hunting in sheep affect their horn size?*Smaller sheep horns evolve as a result of trophy hunting, despite sexual selection. 
+How do we expect harvesting to impose selection on phenotypes?*We expect it to impose selection on lots of phenotypes.
+What does it mean for a trait to be dimorphic?*The trait occurs differently in the two sexes.
+How can we characterize the trait of tusks in Elephants?*A dominant X-linked locus that is lethal in males.
+Is it possible to have a tuskless male? What are the sex chromosomes which determine the presence/absence of this trait?*It is impossible as these elephants die in utero. Presence: xY, Absence: XY.
+What can be said about the sex ratio within the elephant species, as a result of the tusk trait?*Since we lose half of the male offspring (due to XY dying), there is a female-biased sex ratio.
+If birth and immigration rates are greater than death and emigration rates (assume they are constant) then the growth trajectory is:*Density-independent and exponential.
+What are the statistical reasons extrapolating from the logistic model gives poor predictions?*Extrapolating beyond the range of the data may present inconsistencies, this is not to correct model to explain this density-dependent population.
+What are the biological reasons extrapolating from the logistic model gives poor predictions?*This model does not allow overshoots and assumes r and K to be constants.
+How can we explain the radical shift in the rate of growth of humans?*Birth rates have increased for much of human history, but major declines in death rates in the 19th-20th century have furthered increased r.
+Fill in the blanks: Changes in health care raised ____, while changes in agriculture raised ____.*r, K.
+In 1970, the human population was growing at about 2% per year, and now is growing at about 1.1% a year. Is this still growing exponentially?*Yes it is still growing exponentially since r = 1.1% = 0.011 > 0. 
+Define population momentum .*Population momentum is a phenomenon that occurs in fast-growing populations where there is an excess of children.
+With respect to population momentum, what occurs when r goes to zero?*The population continues to grow as the youngest generation reaches reproductive age.
+Fill in the blanks. During periods of high momentum, the age pyramid has a __________ shape, whereas in periods of low momentum the age pyramid has a __________ shape.*Triangular, Oval.
+With respect to fertility rates, what is the replacement level?*On average, women are having more than 2 children (mean > 2).
+What is the first stage of the Demographic Transition Model?*Pre-industrial, birth and death rates were both high, r near zero.
+What is the second stage of the Demographic Transition Model?*Death rates drop (health improvements), but birth rates stay high; the population booms.
+What is the third stage of the Demographic Transition Model?*Birth rates fall (contraception, changing values, later marriage), and growth rates slow.
+What is the fourth stage of the Demographic Transition Model?*Birth and death rates equilibrate, r near zero again.
