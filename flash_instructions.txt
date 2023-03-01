@@ -1,0 +1,12 @@
+INSTRUCTIONS
+
+You will be prompted at the beginning to specify which file you want to study.
+	Enter 'bio220flash*.txt' where * is 1,2,3 depending on which file you want to study (Also do not include the '' marks merely for display here).
+
+You will be prompted then with a question and you can type out your answer.
+After you are done typing your answer, click 'Enter' on your keyboard.
+The code will print your answer, as well as the expected one.
+	NOTE: The code will not tell you if you are correct or wrong, you must compare this yourself. 
+
+After this, you will be prompted to click 'Enter' to continue or you can type 'Retry' to try the question again.
+	NOTE: If you select 'Retry', the question will be readded to the list of possible questions. It may be given again right away or later in the cards.
